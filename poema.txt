@@ -3,3 +3,4 @@ Estas são as cores do arco-íris
 amarelo
 vermelho
 azul
+roxo
